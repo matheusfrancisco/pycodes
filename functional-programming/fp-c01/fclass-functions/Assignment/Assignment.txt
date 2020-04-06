@@ -1,0 +1,8 @@
+It is not always necessary to define helper functions in advance.
+Python provides lambda expressions that can take the place of
+predefined helper functions.  
+
+Refactor the Order class using lambda expressions and remove the 
+helper functions.
+
+Test your new Order class

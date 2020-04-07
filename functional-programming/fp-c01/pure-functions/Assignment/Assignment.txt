@@ -1,0 +1,13 @@
+1. The new methods we added to the Order class are pure, but not all 
+   the existing ones are. Purify the remaining functions, where possible
+   and test your work.
+
+2. Although we haven't used them so far, comprehensions are common
+   in functional languages.  Create new, pure versions of the get_filtered_info
+   and get_order_by_id methods that use list comprehensions.
+
+3. Write a new version of the set_order_expedited method that uses the
+   Order.map method instead of iteration and assignment.  Use the recipe for
+   the consume function from the itertools module.
+
+    See https://docs.python.org/3/library/itertools.html#itertools-recipes

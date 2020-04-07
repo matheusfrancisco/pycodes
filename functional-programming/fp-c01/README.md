@@ -41,15 +41,15 @@ John Carmack
 ### Learning
 
 * First-class functions
-  * In [here](/fclass-functions) had a folders. At before folder the code has some problems.
+  * In [here](./fclass-functions) had a folders. At before folder the code has some problems.
   * in after folders has some  better code, using function methods
   * At assignments folder has a problem and solution to improve the after code
 * Pure functions
-  * In [here](/pure-functions) had a folders. At before folder the code has some problems.
+  * In [here](./pure-functions) had a folders. At before folder the code has some problems.
   * in after folders has some  better code, using function methods
   * At assignments folder has a problem and solution to improve the after code
 * Immutable variables and objects
-  * In [here](/immutable-variables) had a folders. At before folder the code has some problems.
+  * In [here](./immutable-variables) had a folders. At before folder the code has some problems.
   * in after folders has some  better code, using function methods
   * At assignments folder has a problem and solution to improve the after code
 * Lazy evaluation

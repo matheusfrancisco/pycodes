@@ -1,0 +1,12 @@
+1. In the module, we created one new, pure, higher-order function, get_updated_tuple.
+   Refactor the method Order.get_filtered_info so that it:
+        a. is a pure, higher-order function
+        b. returns a tuple instead of a list
+        c. resides outside the Order class for use in other contexts
+        d. uses comprehension(s) instead of map and filter functions
+
+2. Refactor the Order class to use the new function from part 1.
+
+3. Change the Order.filter and Order.map methods to return tuples
+
+4. Test your work

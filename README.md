@@ -9,6 +9,8 @@ I will try to re organizing this repository.
 
 
 ### Codes
-  - [Functional codes in python](/functional-programming)
+  - [Python Basics](./python-beyond-basics)
+  - [Functional codes in python](./functional-programming)
+  - [Fluent python implementation](./fluent-python-impl)
 
 

@@ -1,0 +1,2 @@
+def ruminate():
+    return 'chomp!'

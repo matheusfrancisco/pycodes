@@ -2,7 +2,7 @@
 
 - [x] [Modules](./modules-organizing-programs)
 - [x] [Basic Functions](./basic-functions)
-- [ ] Closures and Decorators
+- [x] [Closures and Decorators](./closures-decorators)
 - [ ] Properties and Class Methods
 
 

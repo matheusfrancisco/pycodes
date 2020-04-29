@@ -5,7 +5,7 @@ class Immutable(metaclass=abc.ABCMeta):
     inherit from this. Let me walk tou through
 
     __slots__ : no new attributes can be created after
-    instancianted 
+    instancianted
     """
     __slots__ = ('__attrs__',)
 

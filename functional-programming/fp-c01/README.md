@@ -53,7 +53,9 @@ John Carmack
   * in after folders has some  better code, using function methods
   * At assignments folder has a problem and solution to improve the after code
 * Lazy evaluation
+  * In [here](./lazy-evaluation)
 * Recursion ( instead of iterative )
 * Pattern matching
-* OOP included! (SOLID) everything in python is object
+  * In [here](./matching)
+
 

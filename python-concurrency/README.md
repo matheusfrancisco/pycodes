@@ -36,3 +36,4 @@ asyncio (python 3.4+)
 
 
 [Projec code nonconcurrency](./thumbnail-nonconcurrency)
+[Projec code threading](./thumbnail-threading)

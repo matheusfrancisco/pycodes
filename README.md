@@ -1,11 +1,12 @@
 # My python (stuffs) codes.
 
-This is my repository with all my code to testing some point, logic or discouver
-how some built-in function works in python;
+This is my repository with re implement some codes learning in courses
+youtube videos to understande more about python.
+
+Foucus on testing and understand more about builtin functions
 
 
-I will try to re organizing this repository.
-
+I will try to re organizing this repository. (one day)
 
 
 ### Codes

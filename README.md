@@ -6,13 +6,18 @@ youtube videos to understande more about python.
 Foucus on testing and understand more about builtin functions
 
 
-I will try to re organizing this repository. (one day)
+Most this codes all see on youtube channels, books and courses
 
+I will try to re organizing this repository. (one day)
 
 ### Codes
   - [Python Basics](./python-beyond-basics)
   - [Functional codes in python](./functional-programming)
   - [Python Concurrency](./python-concurrency)
   - [Fluent python implementation](./fluent-python-impl)
+
+
+
+
 
 
